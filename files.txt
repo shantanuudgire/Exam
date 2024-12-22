@@ -1,0 +1,11 @@
+id,name,age,city
+1,John Doe,30,New York
+2,Jane Doe,25,Los Angeles
+3,Bob Smith,40,Chicago
+4,Alice Johnson,35,Houston
+5,Mike Brown,20,Seattle
+6,Emily Davis,28,Boston
+7,David Lee,38,Philadelphia
+8,Sarah Taylor,32,Phoenix
+9,Kevin White,45,San Francisco
+10,Olivia Martin,29,San Diego
